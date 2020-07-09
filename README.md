@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a series of articles about SOLID and starting another series of articles teaching about Symfony PHP Framework Development. Both published at [Codementor](https://www.codementor.io/@rezehnde)
+- 🌱 I’m currently deep learning about Design Patterns on Symfony PHP Framework
+- 👯 I’m always looking to collaborate on challenged projects
+- 💬 Ask me about how to design software products better or how to study to become a high level developer with an international career
+- 📫 Reach me at rezehnde@gmail.com or via [linkedin](https://www.linkedin.com/in/rezehnde/)
+- ⚡ Fun facts: I love to read and talk about Philosophy and I am also a brazilian jiu-jitsu brown belt
+
 <!--
 **rezehnde/rezehnde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
