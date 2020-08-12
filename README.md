@@ -7,6 +7,8 @@
 - 📫 Reach me at rezehnde@gmail.com or via [Linkedin](https://www.linkedin.com/in/rezehnde/) :mailbox_with_no_mail:
 - ⚡ Fun facts: I love to read and talk about Philosophy and Language Learning, and I am also a brown belt brazilian jiu-jitsu :smirk:
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rezehnde)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Published Articles About Code Challenges
 - [Counting Valleys Code Challenge Solved](https://www.codementor.io/@rezehnde/counting-valleys-code-challenge-solved-10o6azvnc1)
 - [Sock Merchant Code Challenge Solved](https://www.codementor.io/@rezehnde/sock-merchant-challenge-solved-in-c-10iz1059au)
