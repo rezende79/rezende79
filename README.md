@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=rezehnde&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezehnde&layout=compact" />
 
 ### Olá! Hello! Hallo! 👋
 
@@ -9,7 +9,7 @@
 - 📫 Reach me at rezehnde@gmail.com or via [Linkedin](https://www.linkedin.com/in/rezehnde/) :mailbox_with_no_mail:
 - ⚡ Fun facts: I love to read and talk about Philosophy and Language Learning, and I am also a brown belt brazilian jiu-jitsu :smirk:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezehnde&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=rezehnde&count_private=true&show_icons=true&layout=compact" />
 
 #### Published Articles About Code Challenges
 - [Counting Valleys Code Challenge Solved](https://www.codementor.io/@rezehnde/counting-valleys-code-challenge-solved-10o6azvnc1)
