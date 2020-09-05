@@ -11,19 +11,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=rezehnde&count_private=true&show_icons=true&layout=compact" />
 
-#### Published Articles About Code Challenges
-- [Counting Valleys Code Challenge Solved](https://www.codementor.io/@rezehnde/counting-valleys-code-challenge-solved-10o6azvnc1)
-- [Sock Merchant Code Challenge Solved](https://www.codementor.io/@rezehnde/sock-merchant-challenge-solved-in-c-10iz1059au)
-- [Jumping on the Clouds Code Challenge Solved](https://www.codementor.io/@rezehnde/jumping-on-the-clouds-code-challenge-solved-12hmkvzyp7)
-- [Repeated String Code Challenge Solved](https://www.codementor.io/@rezehnde/repeated-string-code-challenge-solved-12hsbv7ka9)
-- [2D Array - DS Code Challenge Solved](https://www.codementor.io/@rezehnde/2d-array-ds-code-challenge-solved-12htzjphte)
-- [Arrays: Left Rotation Code Challenge Solved](https://www.codementor.io/@rezehnde/arrays-left-rotation-code-challenge-solved-12i02d27w8)
-- [Sparse Arrays Code Challenge Solved](https://www.codementor.io/@rezehnde/sparse-arrays-code-challenge-solved-13nqosxi8b)
-
-#### Published Articles About SOLID
-- [Liskov Substitution explained](https://www.codementor.io/@rezehnde/liskov-substitution-explained-17segufykx)
-- [Interface Segregation explained](https://www.codementor.io/@rezehnde/interface-segregation-explained-17jss7trzu)
-- [Dependency Inversion explained](https://www.codementor.io/@rezehnde/dependency-inversion-exposed-by-examples-17jffjup67)
+#### Published Articles
+- [DEV Community](https://dev.to/rezehnde)
 
 ### Upcoming Side Projects
 - **cPanel accounts usage monitor**: to help small hosting companies to see what is going on inside every cPanel account administrated by them. A friend of mine, who managed +70 cPanel accounts at Planet Hoster host provider wants a dashboard to see which resources are being used by his customers in order to be texted when someting unusual happens (for example: one of his customers is sending spam or the website is using a lot of memory).
